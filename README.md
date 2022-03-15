@@ -9,6 +9,6 @@ pip install opencv-python, numpy
 ```
 python main.py filename.jpg 512
 ```
-`filname.jpg`: Your image name which must be included in this directory.
+`filename.jpg`: Your input image which must be put in this directory.
 
-`512`: Output image resolution with 512 * 512.
+`512`: Output image's resolution with 512 * 512.
