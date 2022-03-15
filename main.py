@@ -11,7 +11,7 @@ def generator(argv):
     # cv.imshow("input", ori)
 
     # 缩放到32*32
-    img_resize = cv.resize(ori, (64, 64))
+    img_resize = cv.resize(ori, (32, 32))
     # cv.imshow("final", img_resize)
 
     # 创建空白图像
